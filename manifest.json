@@ -1,0 +1,23 @@
+{
+    "name":"COMPLEXE CINEMATOGRAPHIQUE OUSMANE SEMBENE",
+    "short_name":"CCOS",
+    "description":"Application creer et administrer par Dawa Tech.",
+    "start_url":"index",
+    "display":"fullscreen",
+    "orientation": "portrait",
+    "background_color":"#ffffff",
+    "theme_color":"#ffffff",
+    "scope": ".",
+    "icons":[
+    {
+    "src":"src/img/logo-3.png",                     
+    "sizes":"127x126",
+    "type":"image/png"
+    },
+    {
+    "src":"src/img/logo-2.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+  ]
+}
